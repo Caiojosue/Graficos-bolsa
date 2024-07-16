@@ -5,7 +5,7 @@
 
 # Descrição do Projeto:
 Análise e Visualização de Dados da Bolsa de Valores
-Este projeto tem como objetivo a coleta, análise e visualização de dados históricos e em tempo real da bolsa de valores. Através da utilização de bibliotecas como Pandas, Matplotlib e Plotly, busca-se extrair insights valiosos sobre o desempenho de ações, índices e outros ativos financeiros
+Este projeto tem como objetivo a coleta, análise e visualização de dados históricos e em tempo real da bolsa de valores, através da utilização de bibliotecas como Pandas, Matplotlib e Plotly, busca-se extrair insights valiosos sobre o desempenho de ações, índices e outros ativos financeiros, utilizando os dados da moeda (ITAUB3.SA)
 
 # Funcionalidades Principais:
 ### Coleta de Dados: 
